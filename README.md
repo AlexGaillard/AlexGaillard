@@ -4,7 +4,7 @@ I am a former adman turned software engineer who loves to tinker across the stac
 
 On the front end I am currently focusing on learning Typescript and constantly find myself in awe of how easily it points out your own stupid mistakes to you.
 
-On the backend side I have also been putting a lot of time of Cloud hosting and have set up a number of web servers on both Linode and AWS which I now use to run and test side projects while learning the ins and outs of cloud architecture and performance and security management.
+On the backend side I have also been putting a lot of time of Cloud hosting and have set up a number of web servers on both Linode and AWS. These are mainly used to run and test side projects while learning the ins and outs of cloud architecture and performance and security management.
 
 <!--
 **AlexGaillard/AlexGaillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
