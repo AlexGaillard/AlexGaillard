@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a former adman turned software engineer who loves to tinker across the stack. The majority of my experience is working on the front end, especially with React, Redux and responsive CSS/SASS. However I also have some experience across the stack with database and api design and some of the more daunting technologies like Docker.
+I am a former adman turned software engineer who loves to tinker across the stack. The majority of my experience is working on the front end, especially with React, Redux and responsive CSS/SASS. However I also have some experience across the stack with database and API design and some of the more daunting technologies like Docker.
 
 On the front end I am currently focusing on learning Typescript and constantly find myself in awe of how easily it points out your own stupid mistakes to you.
 
